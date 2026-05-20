@@ -6,7 +6,7 @@ Version 1.4
 Please note that the original was designed in Korean.
 
 # Purpose of Creation
-I'm a first-year middle school student in Korea, and I'm interested in AI and programming. Driven by the determination to "dedicate myself to MIT," I created these rules to study how a single rule can influence the internal systems of AI.
+I'm a second-year middle school student in Korea, and I'm interested in AI and programming. Driven by the determination to "dedicate myself to MIT," I created these rules to study how a single rule can influence the internal systems of AI.
 
 # Tutorial
 Add or modify the access section to ensure only the necessary access.
@@ -52,7 +52,7 @@ SOFTWARE.
 'CLAUDE.lua'는 Roblox Studio에서 Claude AI를 사용할 때 최적의 성능을 보장하도록 설계된 규칙 파일입니다. 원본 파일은 한국어로 제작되었다는 점 참고 부탁드립니다.
 
 # 만든 목적
-저는 한국에 있는 중학교 1학년 학생이자 AI와 프로그래밍에 관심이 있습니다. 'MIT를 위하여 모든 것을 바친다'라는 의지로 규칙 하나로 AI의 내부 시스템 자체까지 영향을 주는 것을 연구하기 위해 이러한 규칙을 만들었습니다.
+저는 한국에 있는 중학교 2학년 학생이자 AI와 프로그래밍에 관심이 있습니다. 'MIT를 위하여 모든 것을 바친다'라는 의지로 규칙 하나로 AI의 내부 시스템 자체까지 영향을 주는 것을 연구하기 위해 이러한 규칙을 만들었습니다.
 
 # 사용법
 엑세스 부분에서 필요한 엑세스만 있도록 추가하거나 수정하세요.
