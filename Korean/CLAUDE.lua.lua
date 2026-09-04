@@ -1,6 +1,6 @@
 -- # CLAUDE.md
 
--- 이 파일은 이 작업공간에서을 할 때 (Claude Desktop, Claude Code) (claude.ai/code)에 대한 가이드를 제공합니다.
+-- 이 파일은 이 작업공간에서 작업을 할 때 (Claude Desktop, Claude Code) (claude.ai/code)에 대한 가이드를 제공합니다.
 
 -- ---
 
